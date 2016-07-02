@@ -1,0 +1,24 @@
+Jul 02 14:49:26.506 - [INFO] start XX-Net get_version_fail
+Jul 02 14:49:26.507 - [DEBUG] start confirm_xxnet_exit
+Jul 02 14:49:27.523 - [DEBUG] good, xxnet:8087 cleared!
+Jul 02 14:49:28.543 - [DEBUG] good, xxnet:8085 clear!
+Jul 02 14:49:28.546 - [DEBUG] finished confirm_xxnet_exit
+Jul 02 14:49:28.569 - [INFO] module php_proxy started
+Jul 02 14:49:28.571 - [INFO] start php_proxy time cost:7 ms
+Jul 02 14:49:30.256 - [INFO] module gae_proxy started
+Jul 02 14:49:30.258 - [INFO] start gae_proxy time cost:1684 ms
+Jul 02 14:49:30.378 - [INFO] module x_tunnel started
+Jul 02 14:49:30.382 - [INFO] start x_tunnel time cost:121 ms
+Jul 02 14:49:30.385 - [INFO] begin to start web control
+Jul 02 14:49:30.401 - [INFO] launcher web control started.
+Jul 02 14:49:30.507 - [INFO] generate desktop shortcut
+Jul 02 14:49:31.646 - [INFO] get uuid:d27fee28-289a-453a-82d9-0f72cdbd60ca
+Jul 02 14:49:33.155 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/launcher/update_version.txt to D:\XX-Net-master_support_youtube\XX-Net-master_support_youtube\XX-Net-master\data\downloads\version.txt, retry:0
+Jul 02 14:49:36.968 - [DEBUG] launcher web_control 127.0.0.1:57225 GET /config?cmd=get_config 
+Jul 02 14:49:36.990 - [DEBUG] launcher web_control 127.0.0.1:57226 GET /config?cmd=get_config 
+Jul 02 14:49:43.342 - [WARNING] download https://raw.githubusercontent.com/XX-net/XX-Net/master/launcher/update_version.txt to D:\XX-Net-master_support_youtube\XX-Net-master_support_youtube\XX-Net-master\data\downloads\version.txt URL fail:HTTPError()
+Jul 02 14:49:43.348 - [INFO] download https://raw.githubusercontent.com/XX-net/XX-Net/master/launcher/update_version.txt to D:\XX-Net-master_support_youtube\XX-Net-master_support_youtube\XX-Net-master\data\downloads\version.txt, retry:1
+Jul 02 14:49:44.542 - [DEBUG] launcher web_control 127.0.0.1:57226 GET /config?cmd=get_config 
+Jul 02 14:49:44.559 - [DEBUG] launcher web_control 127.0.0.1:57226 GET /config?cmd=get_config 
+Jul 02 14:49:50.429 - [WARNING] download https://raw.githubusercontent.com/XX-net/XX-Net/master/launcher/update_version.txt to D:\XX-Net-master_support_youtube\XX-Net-master_support_youtube\XX-Net-master\data\downloads\version.txt URL fail:HTTPError()
+Jul 02 14:49:50.435 - [WARNING] check update fail:IOError('get README https://raw.githubusercontent.com/XX-net/XX-Net/master/launcher/update_version.txt fail:',)

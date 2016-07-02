@@ -1,0 +1,5 @@
+Jul 02 14:49:30.277 - [INFO] use config_path:D:\XX-Net-master_support_youtube\XX-Net-master_support_youtube\XX-Net-master\data\x_tunnel\client.json
+Jul 02 14:49:30.282 - [INFO] Use proxy:127.0.0.1:8087
+Jul 02 14:49:30.284 - [DEBUG] x-tunnel no account
+Jul 02 14:49:30.286 - [WARNING] x-tunnel session not start
+Jul 02 14:49:30.290 - [INFO] Socks5 server listen:127.0.0.1:1080.
